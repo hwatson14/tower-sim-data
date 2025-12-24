@@ -1,0 +1,48 @@
+{
+  "generated_utc": "2025-12-24T00:32:57.772Z",
+  "spreadsheet_id": "1cRKU7cNKhDn2OyyPaGn-U5bM6priDVE8fG-FAfbB-8c",
+  "files": {
+    "WSValues.csv": {
+      "sheet": "WSValues",
+      "rangeA1": "A1:P6012",
+      "approx_lines": 6012,
+      "bytes": 519481
+    },
+    "DVT_Workshop.csv": {
+      "sheet": "DVT_Workshop",
+      "rangeA1": "A1:Z6012",
+      "approx_lines": 6012,
+      "bytes": 588685
+    },
+    "Progress.csv": {
+      "sheet": "Progress",
+      "rangeA1": "AUTO(lastRow/lastCol)",
+      "approx_lines": 102,
+      "bytes": 13402
+    },
+    "BossSurvivabilitySim.csv": {
+      "sheet": "BossSurvivabilitySim",
+      "rangeA1": "AUTO(lastRow/lastCol)",
+      "approx_lines": 343,
+      "bytes": 67392
+    },
+    "Tiers.csv": {
+      "sheet": "Tiers",
+      "rangeA1": "AUTO(lastRow/lastCol)",
+      "approx_lines": 80,
+      "bytes": 10652
+    },
+    "_IDS.csv": {
+      "sheet": "_IDS",
+      "rangeA1": "AUTO(lastRow/lastCol)",
+      "approx_lines": 213,
+      "bytes": 36332
+    },
+    "Data_Val_Tables.csv": {
+      "sheet": "Data_Val_Tables",
+      "rangeA1": "AUTO(lastRow/lastCol)",
+      "approx_lines": 400,
+      "bytes": 100405
+    }
+  }
+}
