@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-12-29T14:25:22.901Z",
+  "generated_utc": "2025-12-30T14:25:28.838Z",
   "spreadsheet_id": "1cRKU7cNKhDn2OyyPaGn-U5bM6priDVE8fG-FAfbB-8c",
   "files": {
     "WSValues.csv": {
@@ -24,7 +24,7 @@
       "sheet": "BossSurvivabilitySim",
       "rangeA1": "AUTO(lastRow/lastCol)",
       "approx_lines": 343,
-      "bytes": 67395
+      "bytes": 67289
     },
     "Tiers.csv": {
       "sheet": "Tiers",
