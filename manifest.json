@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-13T14:25:32.212Z",
+  "generated_utc": "2026-01-14T14:25:35.104Z",
   "spreadsheet_id": "1cRKU7cNKhDn2OyyPaGn-U5bM6priDVE8fG-FAfbB-8c",
   "files": {
     "WSValues.csv": {
@@ -18,13 +18,13 @@
       "sheet": "Progress",
       "rangeA1": "AUTO(lastRow/lastCol)",
       "approx_lines": 102,
-      "bytes": 13418
+      "bytes": 13355
     },
     "BossSurvivabilitySim.csv": {
       "sheet": "BossSurvivabilitySim",
       "rangeA1": "AUTO(lastRow/lastCol)",
       "approx_lines": 343,
-      "bytes": 68868
+      "bytes": 69328
     },
     "Tiers.csv": {
       "sheet": "Tiers",
@@ -36,7 +36,7 @@
       "sheet": "_IDS",
       "rangeA1": "AUTO(lastRow/lastCol)",
       "approx_lines": 213,
-      "bytes": 36365
+      "bytes": 36367
     },
     "Data_Val_Tables.csv": {
       "sheet": "Data_Val_Tables",
